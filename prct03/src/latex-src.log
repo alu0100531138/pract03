@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  1 MAR 2013 13:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  1 MAR 2013 13:44
 entering extended mode
  %&-line parsing enabled.
 **latex-src.tex
@@ -292,22 +292,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
-Overfull \hbox (2.83759pt too wide) in paragraph at lines 23--28
-\OT1/cmr/m/n/12 f^^Sormu-las matem|^^Saticas o efec-tos es-pe-ciales co-mo cam-
-bios de fuentes,entonces
- []
+! Undefined control sequence.
+l.23   \bigakip
+               
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+[1
 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42    \bibitem{Lam:86}
-                        
-? q
-OK, entering \batchmode...
+]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -315,11 +308,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42    \bibitem{Lam:86}
+l.50    \bibitem{Lam:86}
                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -327,24 +318,30 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42    \bibitem{Lam:86}
+l.50    \bibitem{Lam:86}
                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+? 
 
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-LaTeX Warning: Empty `thebibliography' environment on input line 48.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50    \bibitem{Lam:86}
+                        
+? 
 
- [1
+LaTeX Warning: Empty `thebibliography' environment on input line 56.
 
-] [2] (./latex-src.aux) ) 
+[2] (./latex-src.aux) ) 
 Here is how much of TeX's memory you used:
- 1066 strings out of 495062
- 11906 string characters out of 1182644
- 69345 words of memory out of 3000000
- 4292 multiletter control sequences out of 15000+50000
- 9150 words of font info for 32 fonts, out of 3000000 for 9000
+ 1069 strings out of 495062
+ 11951 string characters out of 1182644
+ 70345 words of memory out of 3000000
+ 4295 multiletter control sequences out of 15000+50000
+ 9765 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  24i,11n,27p,168b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on latex-src.dvi (2 pages, 3100 bytes).
+Output written on latex-src.dvi (2 pages, 3608 bytes).
