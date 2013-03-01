@@ -1,7 +1,7 @@
 \documentclass[a4paper,1Opt]{letter}
 \begin{document}
  Si simplemente se desea escribir texto normal en Latex,
- sin complicadas fórmulas matemáticas o efectos especiales
+ sin complicadas formulas matematicas o efectos especiales
  como cambios de fuentes,entonces simplemente tiene que escribir
  en español normalmente.
  Si desea cambiar de parrafo ha de dejar una linea en blanco o bien 
